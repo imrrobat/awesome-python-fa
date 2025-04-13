@@ -41,6 +41,8 @@
 - [ساخت برنامه‌ های GUI](#ساخت-برنامه-های-gui)
 - [بازیسازی](#بازیسازی)
 - [رباتیک](#رباتیک)
+- [دیتابیس](#دیتابیس)
+
 
 
 
@@ -382,6 +384,26 @@
 - [pybotics](https://github.com/nnadeau/pybotics) - ابزارهای مدل‌سازی و تحلیل سینماتیک و دینامیک ربات‌ها.
 - [pypot](https://github.com/poppy-project/pypot) - کنترل سروو موتورها مخصوص ربات‌های پاپی.
 - [compas_fab](https://github.com/compas-dev/compas_fab) - چارچوب برنامه‌نویسی برای ربات‌های صنعتی و CAD.
+
+[بازگشت به فهرست](#-فهرست)
+---
+### دیتابیس
+
+- [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) - کتابخانه ORM قدرتمند برای کار با پایگاه‌داده‌های مختلف.
+- [Peewee](https://github.com/coleifer/peewee) - ORM سبک و ساده برای پایتون.
+- [Tortoise ORM](https://github.com/tortoise/tortoise-orm) - ORM مدرن و async برای پایتون.
+- [Pony ORM](https://github.com/ponyorm/pony) - ORM با قابلیت نوشتن کوئری‌ها به صورت پایتونی.
+- [Django ORM](https://github.com/django/django) - ORM داخلی فریمورک Django برای کار با دیتابیس‌ها.
+- [dataset](https://github.com/pudo/dataset) - رابط ساده برای استفاده از دیتابیس‌های SQL با هدف ذخیره سریع داده‌ها.
+- [orator](https://github.com/sdispater/orator) - ORM الهام گرفته از لاراول برای پایتون.
+- [tinydb](https://github.com/msiemens/tinydb) - دیتابیس سبک و بدون نیاز به سرور بر پایه JSON.
+- [mongoengine](https://github.com/MongoEngine/mongoengine) - ODM برای کار با MongoDB در پایتون.
+- [motor](https://github.com/mongodb/motor) - کلاینت async رسمی برای MongoDB.
+- [pyodbc](https://github.com/mkleehammer/pyodbc) - دسترسی به دیتابیس‌های ODBC از طریق پایتون.
+- [psycopg](https://github.com/psycopg/psycopg) - کلاینت PostgreSQL برای پایتون.
+- [asyncpg](https://github.com/MagicStack/asyncpg) - کلاینت PostgreSQL سریع و async برای پایتون.
+- [redis-py](https://github.com/redis/redis-py) - کلاینت رسمی Redis برای پایتون.
+- [aioredis](https://github.com/aio-libs/aioredis) - کلاینت async برای Redis.
 
 [بازگشت به فهرست](#-فهرست)
 ---
