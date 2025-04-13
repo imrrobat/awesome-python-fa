@@ -45,6 +45,8 @@
 - [شبکه](#شبکه)
 - [واتس اپ](#واتس-اپ)
 - [کار با صفحه کلید](#کار-با-صفحه-کلید)
+- [کار با زمان و تقویم](#کار-با-زمان-و-تقویم)
+
 
 
 
@@ -456,6 +458,21 @@
 - [pyautogui](https://github.com/asweigart/pyautogui) - کتابخانه‌ای برای کنترل موس و کیبورد به صورت برنامه‌نویسی‌شده.
 - [pyhook](https://github.com/ethanhs/pyhook) - دسترسی به رویدادهای کیبورد در ویندوز (مخصوص نسخه‌های قدیمی‌تر پایتون).
 - [inputs](https://github.com/zeth/inputs) - کتابخانه‌ای برای کار با دستگاه‌های ورودی مثل کیبورد، ماوس و گیم‌پد در لینوکس.
+
+  [بازگشت به فهرست](#-فهرست)
+  ---
+  ### کار با زمان و تقویم
+
+- [arrow](https://github.com/arrow-py/arrow) - کتابخانه‌ای برای کار راحت‌تر با زمان، تاریخ و تایم‌زون‌ها.
+- [pendulum](https://github.com/sdispater/pendulum) - جایگزین قدرتمند datetime با پشتیبانی از تایم‌زون و تاریخ‌های انسانی.
+- [dateutil](https://github.com/dateutil/dateutil) - الحاقی برای datetime استاندارد با قابلیت پارسینگ پیشرفته و عملیات‌های پیچیده روی تاریخ.
+- [maya](https://github.com/timofurrer/maya) - کتابخانه‌ای برای تبدیل و محاسبه‌ی آسان تاریخ و زمان.
+- [delorean](https://github.com/myusuf3/delorean) - کتابخانه‌ای برای ساده‌سازی کار با تاریخ و زمان در پایتون.
+- [pytz](https://github.com/stub42/pytz) - پشتیبانی از تایم‌زون‌های IANA برای datetime.
+- [calendra](https://github.com/novafloss/workalendar) - تقویم کاری برای کشورهای مختلف.
+- [jdatetime](https://github.com/slashmili/python-jalali) - تبدیل تاریخ میلادی به شمسی و بالعکس در پایتون.
+- [khayyam](https://github.com/pylover/khayyam) - کتابخانه‌ی ساده و خوانا برای کار با تاریخ شمسی در پایتون.
+- [persiantools](https://github.com/valiha/persiantools) - ابزارهای مختلف برای تاریخ شمسی، اعداد فارسی و ... در پایتون.
 
   [بازگشت به فهرست](#-فهرست)
   ---
