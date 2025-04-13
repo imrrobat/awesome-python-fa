@@ -42,6 +42,8 @@
 - [بازیسازی](#بازیسازی)
 - [رباتیک](#رباتیک)
 - [دیتابیس](#دیتابیس)
+- [شبکه](#شبکه)
+
 
 
 
@@ -404,6 +406,31 @@
 - [asyncpg](https://github.com/MagicStack/asyncpg) - کلاینت PostgreSQL سریع و async برای پایتون.
 - [redis-py](https://github.com/redis/redis-py) - کلاینت رسمی Redis برای پایتون.
 - [aioredis](https://github.com/aio-libs/aioredis) - کلاینت async برای Redis.
+
+[بازگشت به فهرست](#-فهرست)
+---
+### شبکه
+
+- [socket](https://docs.python.org/3/library/socket.html) - کتابخانه داخلی پایتون برای ارتباط با سوکت‌ها.
+- [asyncio](https://docs.python.org/3/library/asyncio.html) - کتابخانه داخلی برای برنامه‌نویسی ناهمگام و مدیریت ارتباطات شبکه‌ای.
+- [Twisted](https://github.com/twisted/twisted) - چارچوبی برای ساخت اپلیکیشن‌های شبکه‌ای event-driven.
+- [Scapy](https://github.com/secdev/scapy) - ابزار قدرتمند برای ساخت، ارسال، دریافت و تحلیل پکت‌های شبکه.
+- [requests](https://github.com/psf/requests) - کتابخانه ساده و محبوب برای ارسال درخواست‌های HTTP.
+- [httpx](https://github.com/encode/httpx) - جایگزین مدرن و async-friendly برای requests.
+- [urllib3](https://github.com/urllib3/urllib3) - کتابخانه‌ای برای مدیریت connection pooling و ارسال HTTP.
+- [aiohttp](https://github.com/aio-libs/aiohttp) - کلاینت و سرور HTTP ناهمگام بر پایه asyncio.
+- [pycurl](https://github.com/pycurl/pycurl) - رابط پایتونی برای کتابخانه libcurl جهت کار با URLها.
+- [paramiko](https://github.com/paramiko/paramiko) - پیاده‌سازی SSH2 برای اتصال امن به سرورها.
+- [fabric](https://github.com/fabric/fabric) - ابزار برای اجرای دستورات روی سرورهای ریموت از طریق SSH.
+- [socketio](https://github.com/miguelgrinberg/python-socketio) - کتابخانه‌ای برای ساخت real-time app با استفاده از WebSocket و Socket.IO.
+- [websockets](https://github.com/aaugustin/websockets) - پیاده‌سازی WebSocket برای asyncio.
+- [netifaces](https://github.com/al45tair/netifaces) - ابزار برای دسترسی به اطلاعات کارت شبکه.
+- [psutil](https://github.com/giampaolo/psutil) - مانیتورینگ منابع سیستم از جمله وضعیت شبکه.
+- [ping3](https://github.com/kyan001/ping3) - پینگ کردن ساده آدرس‌های IP یا دامنه‌ها از طریق پایتون.
+- [dnspython](https://github.com/rthalley/dnspython) - ابزار کامل برای کار با DNS.
+- [miniupnpc](https://github.com/miniupnp/miniupnp) - ارتباط با مودم برای port forwarding با UPnP.
+- [pyshark](https://github.com/KimiNewt/pyshark) - تحلیلگر پکت‌های شبکه با استفاده از tshark.
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - پروکسی برای مشاهده، ویرایش و مسیریابی ترافیک شبکه.
 
 [بازگشت به فهرست](#-فهرست)
 ---
