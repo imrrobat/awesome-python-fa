@@ -443,6 +443,15 @@
 - [pywhatkit](https://github.com/Ankit404butfound/PyWhatKit) - ابزار ساده برای ارسال پیام واتس اپ به همراه امکانات متفرقه دیگر.
 - [wppconnect](https://github.com/wppconnect-team/wppconnect-python) - ابزار اتصال به واتس اپ با استفاده از API wppconnect در پایتون.
 - [whatsapp-cli](https://github.com/Kalebu/whatsapp-cli) - ابزار خط فرمانی برای ارسال پیام واتس اپ با استفاده از pywhatkit.
+- [go-whatsapp](https://github.com/Rhymen/go-whatsapp) - گرچه به زبان Go نوشته شده، می‌تونه از طریق subprocess یا ارتباط با سرور میانی در پروژه‌های پایتونی استفاده بشه.
+
+
+
+
+
+
+
+
 
 [بازگشت به فهرست](#-فهرست)
 ---
