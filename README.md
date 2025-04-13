@@ -59,6 +59,7 @@
 - [کار با اکسل](#کار-با-اکسل)
 - [کار با ‌pdf](#کار-با-pdf)
 - [واتس اپ](#واتس-اپ)
+- [شبکه‌های اجتماعی](#شبکه‌های-اجتماعی)
 
 
 
@@ -594,6 +595,24 @@
 - [meep](https://github.com/NanoComp/meep) - شبیه‌سازی الکترومغناطیسی در حوزه زمان.
 - [quTiP](https://github.com/qutip/qutip) - مدل‌سازی و شبیه‌سازی سیستم‌های کوانتومی باز.
 - [LFPy](https://github.com/LFPy/LFPy) - شبیه‌سازی میدان‌های الکتریکی موضعی ناشی از فعالیت نورونی.
+
+[بازگشت به فهرست](#-فهرست)
+---
+## شبکه‌های اجتماعی
+
+- [tweepy](https://github.com/tweepy/tweepy) - تعامل با Twitter API برای خواندن، ارسال و مدیریت توییت‌ها.
+- [facebook-sdk](https://github.com/mobolic/facebook-sdk) - دسترسی به Graph API فیسبوک با پایتون.
+- [instaloader](https://github.com/instaloader/instaloader) - دانلود عکس، ویدیو و اطلاعات پروفایل از اینستاگرام.
+- [praw](https://github.com/praw-dev/praw) - کتابخانه‌ای برای کار با Reddit API با ساختاری ساده و شی‌گرا.
+- [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - ساخت بات‌های تلگرام با استفاده از پایتون.
+- [telethon](https://github.com/LonamiWebs/Telethon) - ارتباط مستقیم و کامل با Telegram API با استفاده از پایتون.
+- [instabot](https://github.com/instagrambot/instabot) - بات خودکار برای تعامل با اینستاگرام مانند فالو، لایک و کامنت.
+- [linkedin-api](https://github.com/tomquirk/linkedin-api) - کتابخانه غیررسمی برای کار با LinkedIn API.
+- [vk_api](https://github.com/python273/vk_api) - ابزارهایی برای استفاده از VK API (شبکه اجتماعی روسی).
+- [discord.py](https://github.com/Rapptz/discord.py) - کتابخانه‌ای برای ساخت بات‌های Discord و تعامل با سرورها.
+- [slack_sdk](https://github.com/slackapi/python-slack-sdk) - دسترسی به Slack API برای ارسال پیام و کار با کانال‌ها.
+- [pySocialWatcher](https://github.com/maraujo/pySocialWatcher) - پایش و جمع‌آوری اطلاعات از Facebook Ads API.
+- [twint](https://github.com/twintproject/twint) - اسکریپت قدرتمند برای استخراج داده‌های توییتر بدون نیاز به API Key.
 
 [بازگشت به فهرست](#-فهرست)
 ---
