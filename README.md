@@ -43,6 +43,7 @@
 - [رباتیک](#رباتیک)
 - [دیتابیس](#دیتابیس)
 - [شبکه](#شبکه)
+- [واتس اپ](#واتس-اپ)
 
 
 
@@ -431,6 +432,17 @@
 - [miniupnpc](https://github.com/miniupnp/miniupnp) - ارتباط با مودم برای port forwarding با UPnP.
 - [pyshark](https://github.com/KimiNewt/pyshark) - تحلیلگر پکت‌های شبکه با استفاده از tshark.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - پروکسی برای مشاهده، ویرایش و مسیریابی ترافیک شبکه.
+
+[بازگشت به فهرست](#-فهرست)
+---
+### واتس اپ
+
+- [yowsup](https://github.com/tgalal/yowsup) - کتابخانه‌ای برای ارسال و دریافت پیام در واتس اپ با مهندسی معکوس API آن.
+- [open-wa](https://github.com/open-wa/wa-automate-python) - نسخه پایتون‌ شده‌ی غیررسمی برای کنترل واتس اپ تحت وب به‌صورت خودکار.
+- [whatsapp-web](https://github.com/mukulhase/WebWhatsapp-Wrapper) - کتابخانه‌ای برای کنترل واتس اپ از طریق WhatsApp Web با استفاده از Selenium.
+- [pywhatkit](https://github.com/Ankit404butfound/PyWhatKit) - ابزار ساده برای ارسال پیام واتس اپ به همراه امکانات متفرقه دیگر.
+- [wppconnect](https://github.com/wppconnect-team/wppconnect-python) - ابزار اتصال به واتس اپ با استفاده از API wppconnect در پایتون.
+- [whatsapp-cli](https://github.com/Kalebu/whatsapp-cli) - ابزار خط فرمانی برای ارسال پیام واتس اپ با استفاده از pywhatkit.
 
 [بازگشت به فهرست](#-فهرست)
 ---
