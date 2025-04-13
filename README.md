@@ -38,6 +38,7 @@
 - [کار با اکسل](#کار-با-اکسل)
 - [کار با ‌pdf](#کار-با-pdf)
 - [ساخت برنامه‌ های GUI](#ساخت-برنامه-های-gui)
+- [بازی‌سازی](#بازی‌سازی)
 
 
 ---
@@ -284,6 +285,21 @@
 - [**Toga**](https://github.com/beeware/toga) - Toga یک کتابخانه کراس‌پلتفرم برای ساخت اپلیکیشن‌های GUI است. این کتابخانه به شما امکان می‌دهد برنامه‌هایی بسازید که روی سیستم‌عامل‌های مختلف از جمله ویندوز، لینوکس، macOS و موبایل اجرا شوند.
 
 - [**Gooey**](https://github.com/chriskiehl/Gooey) - Gooey یک کتابخانه است که به شما کمک می‌کند تا رابط‌های کاربری گرافیکی ساده برای اسکریپت‌های خط فرمان خود بسازید. این کتابخانه به شما امکان می‌دهد اسکریپت‌های پایتون خود را به برنامه‌های GUI تبدیل کنید.
+
+[بازگشت به فهرست](#-فهرست)
+---
+### بازی‌سازی
+
+- [Pygame](https://github.com/pygame/pygame) - کتابخانه‌ای محبوب برای ساخت بازی‌های دو‌بعدی.
+- [Panda3D](https://github.com/panda3d/panda3d) - موتور بازی‌سازی سه‌بعدی توسعه‌یافته توسط دیزنی.
+- [Arcade](https://github.com/pythonarcade/arcade) - فریم‌ورکی مدرن برای ساخت بازی‌های دو‌بعدی.
+- [Cocos2d](https://github.com/los-cocos/cocos) - فریم‌ورک بازی‌سازی دو‌بعدی با پشتیبانی از انیمیشن و فیزیک.
+- [Ren'Py](https://github.com/renpy/renpy) - موتور ساخت ویژوال ناول و بازی‌های داستانی.
+- [Godot-Python](https://github.com/touilleMan/godot-python) - استفاده از پایتون در موتور Godot.
+- [PyKyra](https://github.com/vermicide/pykyra) - موتور بازی‌سازی قدیمی مبتنی بر SDL.
+- [PyOpenGL](https://github.com/mcfletch/pyopengl) - رابط پایتونی برای OpenGL.
+- [Ursina](https://github.com/pokepetter/ursina) - فریم‌ورک ساده برای بازی‌های سه‌بعدی.
+- [Kivy](https://github.com/kivy/kivy) - مناسب برای ساخت رابط گرافیکی و بازی‌های لمسی.
 
 [بازگشت به فهرست](#-فهرست)
 ---
