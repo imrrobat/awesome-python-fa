@@ -40,6 +40,8 @@
 - [کار با ‌pdf](#کار-با-pdf)
 - [ساخت برنامه‌ های GUI](#ساخت-برنامه-های-gui)
 - [بازیسازی](#بازیسازی)
+- [رباتیک](#رباتیک)
+
 
 
 ---
@@ -364,6 +366,22 @@
 - [schedule](https://github.com/dbader/schedule) - یک کتابخانه ساده برای زمان‌بندی و اجرای کارهای مختلف به صورت خودکار در زمان‌های معین، برای ساخت وظایف اتوماسیون روزانه.
 
 - [Fabric](https://github.com/fabric/fabric) - یک کتابخانه برای اتوماسیون استقرار و مدیریت سیستم‌ها که به‌ویژه برای اجرای دستورات و اسکریپت‌ها روی چندین ماشین در یک شبکه مناسب است.
+
+[بازگشت به فهرست](#-فهرست)
+---
+### رباتیک
+
+- [pyrobot](https://github.com/facebookresearch/pyrobot) - رابط سطح بالا برای کنترل ربات‌ها با تمرکز روی سادگی استفاده.
+- [ros](https://github.com/ros/ros_comm) - مجموعه ابزارها و کتابخانه‌های اصلی سیستم عامل ربات ROS.
+- [rospy](https://github.com/ros/ros_comm/tree/noetic-devel/clients/rospy) - کلاینت پایتون برای ارتباط با ROS.
+- [PyBullet](https://github.com/bulletphysics/bullet3) - شبیه‌ساز فیزیکی برای ربات‌ها و محیط‌های سه‌بعدی.
+- [VREP-PyRep](https://github.com/stepjam/PyRep) - واسط پایتون برای شبیه‌سازی ربات در محیط V-REP.
+- [Robosuite](https://github.com/ARISE-Initiative/robosuite) - محیط شبیه‌سازی رباتیک با تمرکز بر یادگیری تقویتی.
+- [gym-ignition](https://github.com/robotology/gym-ignition) - ترکیب OpenAI Gym با شبیه‌ساز Ignition Gazebo برای تمرینات رباتیک.
+- [URX](https://github.com/SintefManufacturing/python-urx) - کنترل بازوهای رباتیک Universal Robots از طریق پایتون.
+- [pybotics](https://github.com/nnadeau/pybotics) - ابزارهای مدل‌سازی و تحلیل سینماتیک و دینامیک ربات‌ها.
+- [pypot](https://github.com/poppy-project/pypot) - کنترل سروو موتورها مخصوص ربات‌های پاپی.
+- [compas_fab](https://github.com/compas-dev/compas_fab) - چارچوب برنامه‌نویسی برای ربات‌های صنعتی و CAD.
 
 [بازگشت به فهرست](#-فهرست)
 ---
