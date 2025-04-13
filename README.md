@@ -60,6 +60,7 @@
 - [کار با ‌pdf](#کار-با-pdf)
 - [واتس اپ](#واتس-اپ)
 - [شبکه های اجتماعی](#شبکه-های-اجتماعی)
+- [ابزارهای امنیتی](#ابزارهای-امنیتی)
 
 
 
@@ -613,6 +614,33 @@
 - [slack_sdk](https://github.com/slackapi/python-slack-sdk) - دسترسی به Slack API برای ارسال پیام و کار با کانال‌ها.
 - [pySocialWatcher](https://github.com/maraujo/pySocialWatcher) - پایش و جمع‌آوری اطلاعات از Facebook Ads API.
 - [twint](https://github.com/twintproject/twint) - اسکریپت قدرتمند برای استخراج داده‌های توییتر بدون نیاز به API Key.
+
+[بازگشت به فهرست](#-فهرست)
+---
+## ابزارهای امنیتی
+
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - ابزار تست نفوذ SQL injection به صورت خودکار.
+- [wifite2](https://github.com/derv82/wifite2) - ابزار تست امنیت وای‌فای با قابلیت خودکارسازی حملات WEP/WPA.
+- [routersploit](https://github.com/threat9/routersploit) - فریم‌ورکی برای تست نفوذ در روترها و تجهیزات شبکه.
+- [theHarvester](https://github.com/laramies/theHarvester) - ابزار جمع‌آوری اطلاعات برای تست نفوذ اولیه.
+- [recon-ng](https://github.com/lanmaster53/recon-ng) - فریم‌ورک کامل برای جمع‌آوری اطلاعات به صورت ماژولار.
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - پروکسی تعاملی برای شنود و اصلاح ترافیک HTTP/S.
+- [scapy](https://github.com/secdev/scapy) - ابزار قدرتمند برای ساخت، ارسال و تجزیه تحلیل پکت‌های شبکه.
+- [autopsy](https://github.com/sleuthkit/autopsy) - ابزار تجزیه و تحلیل دیجیتال برای جرم‌یابی کامپیوتری.
+- [volatility](https://github.com/volatilityfoundation/volatility) - فریم‌ورکی برای تحلیل حافظه رم و جرم‌یابی دیجیتال.
+- [knock](https://github.com/guelfoweb/knock) - ابزار جمع‌آوری اطلاعات دامنه با روش‌های مختلف.
+- [pwndbg](https://github.com/pwndbg/pwndbg) - افزونه‌ای برای GDB جهت دیباگ راحت‌تر باینری‌ها.
+- [PyCrypto](https://github.com/dlitz/pycrypto) - مجموعه‌ای از الگوریتم‌های رمزنگاری در پایتون.
+- [paramiko](https://github.com/paramiko/paramiko) - پیاده‌سازی SSH2 برای ارتباط امن با سرور.
+- [nmap](https://github.com/nmmapper/python3-nmap) - رابط پایتون برای ابزار معروف اسکن شبکه Nmap.
+- [fuxploider](https://github.com/almandin/fuxploider) - ابزار تست آپلود آسیب‌پذیر در اپلیکیشن‌های وب.
+- [xsrfprobe](https://github.com/0xInfection/XSRFProbe) - ابزار بررسی آسیب‌پذیری CSRF به صورت خودکار.
+- [weeman](https://github.com/evait-security/weeman) - فیشینگ با پایتون برای ساخت صفحات جعلی.
+- [slowloris](https://github.com/gkbrk/slowloris) - اجرای حمله Slowloris برای فلج کردن سرورهای وب.
+- [pybelt](https://github.com/eb00ga/pybelt) - ابزار تست نفوذ همه‌کاره با قابلیت‌های مختلف.
+- [sherlock](https://github.com/sherlock-project/sherlock) - جستجو در سایت‌های شبکه اجتماعی برای پیدا کردن نام کاربری خاص.
+- [maigret](https://github.com/soxoj/maigret) - مشابه Sherlock، برای جستجوی پروفایل‌های آنلاین با امکانات بیشتر.
+- [socialscan](https://github.com/iojw/socialscan) - بررسی در دسترس بودن نام کاربری و ایمیل در سرویس‌های مختلف.
 
 [بازگشت به فهرست](#-فهرست)
 ---
