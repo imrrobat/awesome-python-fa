@@ -31,6 +31,7 @@
 - [ابزارهای خط فرمان](#ابزارهای-خط-فرمان)
 - [هوش مصنوعی و nlp](#هوش-مصنوعی-و-nlp)
 - [ویرایش و کار با ویدیوها](#ویرایش-و-کار-با-ویدیوها)
+- [کار با فایل های صوتی](#کار-با-فایل-های-صوتی)
 - [پردازش تصویر](#پردازش-تصویر)
 - [ساخت بات تلگرام](#ساخت-بات-تلگرام)
 - [هک و امنیت](#هک-و-امنیت)
@@ -285,6 +286,22 @@
 - [**Toga**](https://github.com/beeware/toga) - Toga یک کتابخانه کراس‌پلتفرم برای ساخت اپلیکیشن‌های GUI است. این کتابخانه به شما امکان می‌دهد برنامه‌هایی بسازید که روی سیستم‌عامل‌های مختلف از جمله ویندوز، لینوکس، macOS و موبایل اجرا شوند.
 
 - [**Gooey**](https://github.com/chriskiehl/Gooey) - Gooey یک کتابخانه است که به شما کمک می‌کند تا رابط‌های کاربری گرافیکی ساده برای اسکریپت‌های خط فرمان خود بسازید. این کتابخانه به شما امکان می‌دهد اسکریپت‌های پایتون خود را به برنامه‌های GUI تبدیل کنید.
+
+[بازگشت به فهرست](#-فهرست)
+---
+### کار با فایل های صوتی
+
+- [pydub](https://github.com/jiaaro/pydub) - کار با فایل‌های صوتی و تبدیل فرمت‌ها با رابطی ساده.
+- [librosa](https://github.com/librosa/librosa) - کتابخانه‌ای برای آنالیز و پردازش سیگنال‌های صوتی.
+- [audioread](https://github.com/beetbox/audioread) - رابط ساده برای خواندن فایل‌های صوتی با استفاده از بک‌اندهای مختلف.
+- [soundfile](https://github.com/bastibe/python-soundfile) - خواندن و نوشتن فایل‌های صوتی با فرمت‌های مختلف.
+- [PyAudio](https://github.com/intxcc/pyaudio_portaudio) - ضبط و پخش صدا با استفاده از PortAudio.
+- [SpeechRecognition](https://github.com/Uberi/speech_recognition) - تشخیص گفتار و تبدیل صدا به متن.
+- [simpleaudio](https://github.com/hamiltron/py-simple-audio) - پخش ساده فایل‌های WAV در پایتون.
+- [audiomentations](https://github.com/iver56/audiomentations) - انجام تغییرات و افزونه‌های داده‌ای روی فایل‌های صوتی.
+- [torchaudio](https://github.com/pytorch/audio) - ابزارهای پردازش صدا مخصوص مدل‌های یادگیری ماشین با PyTorch.
+- [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - تحلیل فایل‌های صوتی شامل استخراج ویژگی‌ها، طبقه‌بندی و تقسیم‌بندی.
+- [madmom](https://github.com/CPJKU/madmom) - کتابخانه‌ای برای پردازش صوتی موسیقی محور با تمرکز بر روی زمان‌بندی.
 
 [بازگشت به فهرست](#-فهرست)
 ---
