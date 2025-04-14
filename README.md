@@ -26,7 +26,7 @@
 
 ### حوزه‌های تخصصی
 - [وب و توسعه وب](#وب-و-توسعه-وب)
-- [تحلیل داده](#تحلیل-داده)
+- [کتابخانه هاي تحليل داده](#کتابخانه-هاي-تحليل-داده)
 - [یادگیری ماشین](#یادگیری-ماشین)
 - [اتوماسیون](#اتوماسیون)
 - [هک و امنیت](#هک-و-امنیت)
@@ -103,14 +103,37 @@
 [بازگشت به فهرست](#-فهرست)
 ---
 
-### تحلیل داده  
-کتابخانه‌هایی برای تحلیل، پردازش و کار با داده‌ها.
+### کتابخانه هاي تحليل داده
 
-- [**pandas**](https://github.com/pandas-dev/pandas) - تحلیل و دستکاری داده‌های جدولی؛ استاندارد طلایی در پایتون.
-- [**NumPy**](https://github.com/numpy/numpy) - آرایه‌های چندبعدی و عملیات عددی سریع.
-- [**Polars**](https://github.com/pola-rs/polars) - کتابخانه‌ای بسیار سریع و مدرن برای تحلیل داده‌های حجیم.
-- [**OpenPyXL**](https://github.com/openpyxl/openpyxl) - خواندن و نوشتن فایل‌های اکسل (.xlsx).
-- [**tabulate**](https://github.com/astanin/python-tabulate) - نمایش داده‌ها به صورت جدول در ترمینال.
+- [pandas](https://github.com/pandas-dev/pandas) - ساختارهای داده و ابزارهای تحلیل داده قدرتمند.
+- [numpy](https://github.com/numpy/numpy) - محاسبات عددی و آرایه‌های چندبعدی.
+- [scipy](https://github.com/scipy/scipy) - توابع علمی و تکنیک‌های پیشرفته‌ی محاسباتی.
+- [matplotlib](https://github.com/matplotlib/matplotlib) - ترسیم نمودارهای دو بعدی و مصورسازی داده.
+- [seaborn](https://github.com/mwaskom/seaborn) - گراف‌های آماری زیبا با استفاده از matplotlib.
+- [plotly](https://github.com/plotly/plotly.py) - مصورسازی تعاملی و گراف‌های پیچیده در پایتون.
+- [bokeh](https://github.com/bokeh/bokeh) - ایجاد گراف‌های تعاملی برای صفحات وب.
+- [statsmodels](https://github.com/statsmodels/statsmodels) - مدل‌سازی آماری، رگرسیون و آزمون‌های آماری.
+- [sklearn](https://github.com/scikit-learn/scikit-learn) - الگوریتم‌های یادگیری ماشین و ابزارهای تحلیل داده.
+- [dask](https://github.com/dask/dask) - پردازش موازی داده‌های بزرگ با ساختار مشابه pandas.
+- [modin](https://github.com/modin-project/modin) - اجرای سریع‌تر کدهای pandas با موازی‌سازی.
+- [pyjanitor](https://github.com/pyjanitor-devs/pyjanitor) - ابزارهای تمیز کردن داده برای pandas.
+- [datatable](https://github.com/h2oai/datatable) - پردازش سریع داده‌های جدولی برای مجموعه‌های بزرگ.
+- [polars](https://github.com/pola-rs/polars) - کتابخانه سریع پردازش داده مبتنی بر Rust.
+- [vaex](https://github.com/vaexio/vaex) - تحلیل سریع و حافظه‌-کارآمد داده‌های بزرگ.
+- [sweetviz](https://github.com/fbdesignpro/sweetviz) - تولید گزارش‌های اکتشافی داده به صورت خودکار.
+- [pandas-profiling](https://github.com/ydataai/pandas-profiling) - تحلیل اکتشافی خودکار برای دیتافریم‌های pandas.
+- [missingno](https://github.com/ResidentMario/missingno) - مصورسازی داده‌های گمشده در دیتاست‌ها.
+- [openpyxl](https://github.com/openpyxl/openpyxl) - خواندن و نوشتن فایل‌های Excel با فرمت xlsx.
+- [xlrd](https://github.com/python-excel/xlrd) - خواندن فایل‌های Excel قدیمی (xls).
+- [xlwt](https://github.com/python-excel/xlwt) - نوشتن فایل‌های Excel (xls).
+- [pyxlsb](https://github.com/wwwiiilll/pyxlsb) - خواندن فایل‌های Excel با فرمت باینری (xlsb).
+- [pyarrow](https://github.com/apache/arrow) - ارتباط سریع بین زبان‌ها با فرمت Apache Arrow.
+- [fastparquet](https://github.com/dask/fastparquet) - خواندن و نوشتن فرمت Parquet در پایتون.
+- [tabulate](https://github.com/astanin/python-tabulate) - تبدیل دیتافریم‌ها به جداول متنی زیبا.
+- [csvkit](https://github.com/wireservice/csvkit) - ابزار خط فرمان برای کار با فایل‌های CSV.
+- [agates](https://github.com/wireservice/agates) - ابزار سبک برای تحلیل داده‌های جدولی.
+- [petl](https://github.com/petl-developers/petl) - ابزار ETL ساده برای کار با داده‌های جدولی.
+- [csv](https://docs.python.org/3/library/csv.html) - ماژول داخلی پایتون برای خواندن و نوشتن فایل‌های CSV.
 
 [بازگشت به فهرست](#-فهرست)
 ---
