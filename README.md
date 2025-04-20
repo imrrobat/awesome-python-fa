@@ -46,6 +46,8 @@
 - [ریاضی](#ریاضی)
 - [فیزیک](#فیزیک)
 - [کتابخانه هاي جغرافيا](#کتابخانه-هاي-جغرافيا)
+- [کتابخانه هاي داروسازي](#کتابخانه-هاي-داروسازي)
+
 
 
 ### عمومی
@@ -69,8 +71,27 @@
 
 
 
+---
+### کتابخانه هاي داروسازي
 
+- [rdkit](https://github.com/rdkit/rdkit) - ابزار تجزیه و تحلیل و ساختاردهی مولکول‌ها برای شیمی محاسباتی.
+- [openbabel](https://github.com/openbabel/openbabel) - تبدیل فرمت‌های شیمیایی و پردازش ساختارهای مولکولی.
+- [pybel](https://github.com/openbabel/openbabel) - رابط پایتونی ساده برای OpenBabel.
+- [chembl_webresource_client](https://github.com/chembl/chembl_webresource_client) - کلاینت API برای دسترسی به دیتابیس ChEMBL.
+- [indigo](https://github.com/epam/Indigo) - کتابخانه شیمی محاسباتی با قابلیت تطبیق زیرساختار و پردازش SMILES.
+- [biopandas](https://github.com/rasbt/biopandas) - ترکیب pandas با داده‌های مولکولی PDB و SDF.
+- [mordred](https://github.com/mordred-descriptor/mordred) - تولید توصیف‌گرهای مولکولی برای مدل‌سازی QSAR/QSPR.
+- [deepchem](https://github.com/deepchem/deepchem) - فریم‌ورک یادگیری ماشین برای داروشناسی و شیمی محاسباتی.
+- [chemprop](https://github.com/chemprop/chemprop) - مدل‌سازی ویژگی‌های مولکولی با شبکه‌های عصبی گراف.
+- [autodock](https://github.com/ccsb-scripps/AutoDock) - ابزار docking مولکولی برای بررسی تعامل دارو-پروتئین.
+- [pymol-open-source](https://github.com/schrodinger/pymol-open-source) - ویژوالایزر مولکولی سه‌بعدی برای بررسی ساختار داروها.
+- [prody](https://github.com/prody/ProDy) - تحلیل دینامیک ساختارهای پروتئینی برای کاربردهای دارویی.
+- [simtk/openmm](https://github.com/openmm/openmm) - شبیه‌سازی دینامیک مولکولی در داروشناسی و زیست‌شناسی محاسباتی.
+- [chemtools](https://github.com/duartegroup/chemtools) - ابزار تحلیل خواص الکترونی مولکول‌ها.
+- [ccdc](https://github.com/ccdc-opensource/ccdc) - ابزارهای متن‌باز از Cambridge Crystallographic Data Centre (بعضی اجزای رایگان).
+- [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) - تحلیل داده‌های شبیه‌سازی مولکولی برای تحقیق دارویی.
 
+[بازگشت به فهرست](#-فهرست)
 ---
 ### کتابخانه‌های ساخته شده توسط ایرانی‌ها
 
