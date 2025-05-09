@@ -19,7 +19,7 @@
   <img 
     class="img-fluid" 
     src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" 
-    style="width: 150px; height: auto;" 
+    style="width: 200px; height: auto;" 
   />
 </a>
 <br>
